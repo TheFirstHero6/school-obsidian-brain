@@ -37,5 +37,25 @@ In short: what is real, how do I and we know, and how should I and we live?
 - Our horses fight, however, with the good one leading us upward, and the bad one leading us downward.
      - Philosophy is our little slice of divine-like inquiry, when the good horse is leading!
      - The bad horse leads us "back to earth", where we pursue bodily pleasures and neglect to understand Really Real Reality!
- 
+ - What our world is -- the universe, or the cosmos - is also very hard to say. Here's another nice story, another myth:
+ - The cosmos is a thing that has come to be, made as an image of the eternal and divine by a crafts-person (demiourgus) who is good.
+     - The crafts-person wanted *everything to be as good and divine-like as possible*
+     - This happens by looking to the divine model to bring order to chaos
+- Takeaways: the crafts-person made the cosmos *as good as possible* by making it *like* the divine, something that "came before" it and hence has a kind of priority over it.
+
+- Symposium
+- A lesson on *how we come to know beauty itself, that is, divine beauty:*
+    - Study beauty in one particular context: one body.
+    - the study beauty in another body, and another, learning to find it in *all bodies*
+    - Then come to understand beauty in non-bodily contexts: systems of knowledge, complexity of laws of physics and science. Study sameness of beauty across instances, in varying levels of complexity!
+    - Suddenly, "in a flash", come to know beauty itself, *what makes possible these various instances of beauty*.
+- Two important points: 
+    - The properties that physical things have (beauty, redness, etc.) are made possible through *ways of being* ("beauty itself") that are in some sense divine.
+    - To come to understand the divine, *study sameness and difference across instances*
+- Seeing requires those things: the seer (eye), the thing seen, and light.
+- The sun hence is the *cause* of the seeing, *a third thing* that is the *causal source* of the seeing
+- The good is exactly like this, but for knowing instead of seeing
+- Knowing entails a knower (person), the thing known, and the good, *that by which* the thing is known is "illuminated" to allow for knowing.
+- (this seems extremely important, but Plato has Socrates say only a tiny bit about it in the dialogues)
+
 
