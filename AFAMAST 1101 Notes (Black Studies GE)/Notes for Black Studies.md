@@ -1,4 +1,5 @@
 [[OSU Notes Spring 2026]]
 
 
-### Class Two 01/15
+### Day 3 1/20/2026
+

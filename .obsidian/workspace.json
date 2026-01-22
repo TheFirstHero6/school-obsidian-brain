@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Notes for Phil-3220"
             }
+          },
+          {
+            "id": "5fd3880c6f6d253f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHIL-3220 - History of Medieval Philosophy/Aristotle - excerpts (Foltz).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Aristotle - excerpts (Foltz)"
+            }
           }
         ]
       }
@@ -185,12 +197,15 @@
   },
   "active": "27d207df5cd21b29",
   "lastOpenFiles": [
-    "README.md",
-    "RELSTDS - 2102.02 Comparative Sacred Texts/Notes for RELDTDS.md",
+    "PHIL-3220 - History of Medieval Philosophy/Aristotle - excerpts (Foltz).pdf",
     "PHIL-3220 - History of Medieval Philosophy/Notes for Phil-3220.md",
+    "PHIL-3220 - History of Medieval Philosophy/Plato - excerpts (Foltz).pdf",
+    "Aristotle - excerpts (Foltz).md",
     "PHIL-2332.01 - Engineering in a Just world/Notes for Phil 2332.01.md",
-    "AFAMAST 1101 Notes (Black Studies GE)/Notes for Black Studies.md",
     "PHIL-1500 Intro to Logic/Notes for Logic GE.md",
+    "README.md",
+    "AFAMAST 1101 Notes (Black Studies GE)/Notes for Black Studies.md",
+    "RELSTDS - 2102.02 Comparative Sacred Texts/Notes for RELDTDS.md",
     "OSU Notes Spring 2026.md",
     "Untitled",
     "ARTSSCI - 1100.04 OSU Random GE",

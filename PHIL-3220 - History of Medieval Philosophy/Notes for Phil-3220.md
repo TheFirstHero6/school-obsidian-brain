@@ -24,7 +24,7 @@ In short: what is real, how do I and we know, and how should I and we live?
    - Many philosophers shy away from the God stuff, but we will talk a lot about it out of necessity.
 
 
-### Lecture Two 01/20/2026
+### Lecture Two - Plato 01/20/2026 [[Plato - excerpts (Foltz).pdf]]
 - Plato: 425 - 347 BCE, wealthy Athenian, student of Socrates, founder of the academy, the first institution of higher learning in Europe.
    - Wrote dialogues depicting Socrates in conversation with other famous and infamous figures, including politicians, artists, common folk, and some philosophers.
 - A . A . Whitehead: "The European philosophical tradition is a series of footnotes to Plato."
@@ -58,4 +58,18 @@ In short: what is real, how do I and we know, and how should I and we live?
 - Knowing entails a knower (person), the thing known, and the good, *that by which* the thing is known is "illuminated" to allow for knowing.
 - (this seems extremely important, but Plato has Socrates say only a tiny bit about it in the dialogues)
 
-
+ ### Lecture Three - Aristotle 01/22/2026 [[Aristotle - excerpts (Foltz).pdf]]
+Aristotle
+- Aristotle: Plato's most famous student, and (more of less) equally important in the history of philosophy.
+- Often said to be "bitter enemy" of Plato, but this is a distortion. They agree on a lot! Medieval scholars certainly thought so too.
+- Plato is particularly interested in "the heavens" or higher reality that makes our world possible, while Aristotle is particularly interested in "our world": studying biology, laws of physics, human societies and politics, works of art...
+- But Aristotle agrees with Plato: the objects of "our world" are as they are due to *divine, causal principles*.
+Aristotle and Plato on divine causes
+- the things we see around us *all come to be and perish*
+- They are spatiotemporally determined: their attributes change over time and as they move across space.
+     - Take the tree. 100 years ago, it was an acorn. In 50 years, it will be a pile of lumber.
+     - this is only coherent if we posit *ways of being*: acorn-ness, tree-ness, lumber-ness
+     - These ways of being - *what it is to be an acorn, a tree, or lumber - do not themselves change!* What changes are *this* acorn, *that* tree, *this* lumber!
+- For Plato and Aristotle, ways of being are hence "eternal", and hence "divine."
+- (These are often called "forms" as in "Plato's theory of forms" though Aristotle surely agrees with a version of this theory.)
+- Ways of being ("forms") are hence (1) divine, (2) eternal, (3) unchanging, (4) causal, (5) the *reason* for spatiotemporal things being as they are over periods of time.
